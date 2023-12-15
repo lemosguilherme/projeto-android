@@ -158,7 +158,7 @@ main aside {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.425);
 }
 main aside ul {
-    list-style-type: "\2714\00A0\00A0\00A0";
+    list-style-type: "\2714\00A0";
     list-style-position: inside;
     columns: 2;
     font-weight: bold;
