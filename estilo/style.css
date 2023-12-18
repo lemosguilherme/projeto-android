@@ -129,19 +129,21 @@ main img.pequena{
     display: block;
     margin: auto;
 }
-main div.video {
+main article div.caixa {
     background-color: var(--cor5);
-    margin: 0px -20px 20px -20px;
-    padding: 20px;
-    padding-bottom: 42%;
+    margin: 0px -20px 20px -20px ;
+    padding-bottom: 50%;
     position: relative;
 }
-main div.video iframe {
+main article div iframe#video {
     position: absolute;
-    left: 16%;
-    height: 86%;
-    width: 67%;
+    left: 50%;
+    top: 50%;
+    height: 90%;
+    width: 73%;
+   transform: translate(-50%, -50%);
 }
+
 main h3 {
     background-color: var(--cor3);
     color: white;
