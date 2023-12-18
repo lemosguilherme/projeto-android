@@ -141,7 +141,7 @@ main article div iframe#video {
     top: 50%;
     height: 90%;
     width: 73%;
-   transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 main h3 {
